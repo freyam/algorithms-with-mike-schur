@@ -15,34 +15,28 @@ I love to teach. I love visualizations. I love algorithms. So, I brought them al
 
 The algorithms covered in this mini-series would be divided into 3 categories, where each episode would be covering a specific domain of algorithms.
 
-### AwMS EP1: Graph Algorithms w/ The Nine-Nine Squad
+### AwMS EP1: MST with The Nine Nine Squad
 
-The first episode would involve uncovering a typical Halloween heist and catching criminals who have recently escaped from prison and are SUPER DANGEROUS! Jake and Amy join forces with Scully (why is Scully here? Watch the episode to find out) to solve the heist and restore peace to New York City's streets.
+In the first episode, we uncover a dangerous assignment that Captain Holt has bestowed upon the 99th Precinct. The squad goes on a freaking MANHUNT for a group of convicts who've escaped from a prison van on the streets of Brooklyn.
 
-Algorithms such as Shortest Path Algorithms, Strongly Connected Components, DFS, BFS, and Minimum Spanning Trees, etc. will be demonstrated.
+I illustrate the usefulness of Minimum Spanning Trees in this episode and how algorithms such as Prim's and Kruskal's help find the optimal paths in a given graph.
 
-### AwMS EP2: Greedy Algorithms w/ Dunder Mifflin
+Brooklyn Nine-Nine Character Illustrations Credit: Luigi Lucarelli (Instagram: helloluigi)
 
-The second episode would reveal The Office's Office Olympics episode, in which Michael (World's Greatest Boss) takes a day off and the employees of Dunder Mifflin decide to arrange a little Olympics in their modest office area. This episode is absolutely packed with entertaining games in which Jim outperforms the others by taking more greedy approaches to complete the goals.
+### AwMS EP2: Homomorphic Encryption with The Dunder Mifflin Scranton
 
-Algorithms such as Hamming Code, Job-Scheduling, Sorting, Web Searching, PageRank, etc. will be demonstrated.
+In the second episode's first part, we uncover an identity theft by Jim as he enters the office dressed as Dwight. He claims that he accidentally discovered Dwight's spectacles for four dollars at a pharmacy shop and couldn't resist duplicating the rest of Dwight's outfit for eleven dollars. We also see how the office is trying to remember their server password after Michael plugged in a space heater and a fan in the same plug.
+I show how Homomorphic Encryption is important in our life and how it protects our privacy while we spend hours upon hours every day on different social media platforms. I also discuss SHA-256 and Shor's algorithm, as well as how Quantum computers might usher in a new era in Internet security.
 
-### AwMS EP3: Optimization Algorithms w/ The Parks Department
+The Office Character Illustrations Credit: Marisa Livingston (Twitter: Marisa_Draws)
 
-The final episode in the mini-series would take us to the humble town of Pawnee, Indiana where we see the Parks and Recreation Department go about solving a treasure hunt set up by Leslie (their boss) by using the most unconventional ideas. The winner of the treasure hunt gets a signed letter from Ron stating the following:
+### AwMS EP3: SHA256 with The Dunder Mifflin Scranton
 
-Respected Winner,
+In the second episode's first part, we uncover how the office is trying to remember their server password after Michael plugged in a space heater and a fan in the same plug.
 
-Congratulations.
+I discuss SHA-256 and Shor's algorithm, as well as how Quantum computers might usher in a new era in Internet security.
 
-Regards,
-Ron
-15-------
-\---------
-
-Algorithms such as Longest Increasing Subsequence, The Knapsack Problem, Multiplying Large Numbers, etc. will be demonstrated.
-
-Note: The algorithms mentioned in each episode may or may not make it to the final cut. Algorithms are subject to change.
+The Office Character Illustrations Credit: Marisa Livingston (Twitter: Marisa_Draws)
 
 ## Usecase
 
@@ -51,7 +45,9 @@ Learning your favorite algorithms was never this fun. This mini-series could hel
 ## References
 
 [1] Brooklyn Nine-Nine
+
 ![](./images/B99-logo.png)
+
 Brooklyn Nine-Nine is an American police procedural comedy television series.
 
 [2] The Office (US)
@@ -59,11 +55,5 @@ Brooklyn Nine-Nine is an American police procedural comedy television series.
 ![](./images/Office-logo.png)
 
 The Office is an American mockumentary sitcom television series that depicts the everyday work lives of office employees in the Scranton, Pennsylvania, branch of the fictional Dunder Mifflin Paper Company.
-
-[3] Parks and Recreation
-
-![](./images/PnR-logo.png)
-
-Parks and Recreation (also known as Parks and Rec) is an American political satire mockumentary sitcom television series.
 
 _© No licenses have been acquired for the recreation of the content. All the rights belong to the National Broadcasting Company, United States._
