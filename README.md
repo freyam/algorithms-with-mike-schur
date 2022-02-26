@@ -1,5 +1,7 @@
 # Algorithms w/ Mike Schur
 
+![](./poster.png)
+
 AwMS ("Algorithms w/ Mike Schur") is a three-part mini-series in which I demonstrate real-world applications of certain algorithms and offer viewers a visually engaging experience by leveraging their love of TV shows and disinterest in studies.
 
 I'd take scenes and snippets from three shows - Brooklyn Nine-Nine, Parks and Recreation, and The Office (US) - and change the settings to match a certain algorithm (or a class of algorithms). There's a lot of entertaining material for the viewer to become hooked on, from treasure hunts to capturing criminals who have just escaped jail. The scenes will be carefully fabricated to suit an algorithm and provide the best analysis for every algorithm that I demonstrate.
