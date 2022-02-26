@@ -6,6 +6,8 @@ AwMS ("Algorithms w/ Mike Schur") is a three-part mini-series in which I demonst
 
 I'd take scenes and snippets from three shows - Brooklyn Nine-Nine, Parks and Recreation, and The Office (US) - and change the settings to match a certain algorithm (or a class of algorithms). There's a lot of entertaining material for the viewer to become hooked on, from treasure hunts to capturing criminals who have just escaped jail. The scenes will be carefully fabricated to suit an algorithm and provide the best analysis for every algorithm that I demonstrate.
 
+[Streaming Link (All 3 episodes)](https://drive.google.com/drive/folders/1wRq-XxlozG1-zsrYYXFO2g8M4GDFx0Hn?usp=sharing)
+
 ## Motivation
 
 Where do the students spend most of the time of the day in the 2020s? Textbooks? Research Papers? No! Netflix? Disney Plus? YES! Students love to binge shows day and night.
